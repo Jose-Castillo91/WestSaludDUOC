@@ -1,5 +1,5 @@
 # WestSaludDUOC
-Trabajo realizado por:
-Moises Alfredo Martinez Vidal
-Estefania Andrea Neira Sepulveda
-José Ignacio Castillo Farias
+Trabajo realizado por: \n
+Moises Alfredo Martinez Vidal \n
+Estefania Andrea Neira Sepulveda  \n
+José Ignacio Castillo Farias \n
